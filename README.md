@@ -6,9 +6,9 @@
 
 ## I'm a Software Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Deep Learning!! 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Django
+- 🥅 2023 Goals: Learn more about ORACLE, DevOPs
 - ⚡ Fun fact: I love reading, swimming and tv_shows 
 
 ### Connect with me:
