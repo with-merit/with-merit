@@ -1,6 +1,6 @@
 # Hi there, I'm Catherine - aka [Kate AUMA][website] 👋 
 
-## I'm a Software Developer!!
+## I'm a Software Engineer!!
 
 - 🌱 I’m currently learning Deep Learning!! 🤣
 - 👯 I’m looking to collaborate with other content creators
